@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Asap&family=Barlow+Condensed&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.search-dropdown {
+    /* 検索ドロップダウンのサイズを変更 */
+    margin-right: .5rem!important;
+    margin-left: 0.5rem;
+    padding-right: 10rem;
+}
+
+.serach_btn {
+    margin-right: 0.5rem;
+    color: #737373;
+    border: 1px solid #737373;
+    background-color: #E6FFFF;
+}
+
+
